@@ -79,7 +79,7 @@
 
 ---
 
-## 🎓 Competencias Técnicas
+## Competencias Técnicas
 
 ![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20SQL-blue?style=flat-square)
 ![Frontend](https://img.shields.io/badge/Frontend-JavaScript%20%7C%20HTML%20%7C%20CSS-green?style=flat-square)
@@ -149,7 +149,7 @@ Scripts PHP/Bash para tareas administrativas y batch processing.
 
 ---
 
-## 📝 Documentación por Archivo
+## Documentación por Archivo
 
 Cada archivo modificado incluye:
 
@@ -162,7 +162,7 @@ Cada archivo modificado incluye:
 
 ---
 
-## 🚀 Cómo Usar Este Repositorio
+## Cómo Usar Este Repositorio
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
