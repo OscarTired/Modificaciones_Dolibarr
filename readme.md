@@ -235,7 +235,8 @@ Para preguntas, problemas o sugerencias relacionadas con las modificaciones:
 ## 📋 Notas Finales
 
 **Última Actualización:** Noviembre 2025  
-**Mantenido por:** oscarwork77@gmail.com 
+**Mantenido por:** oscarwork77@gmail.com
+
 **Licencia:** GPL v3+
 
 ---
